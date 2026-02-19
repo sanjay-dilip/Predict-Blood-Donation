@@ -4,3 +4,5 @@ This project was done as a part of my traineeship at MedTourEasy. The dataset us
 Refer for the dataset
 
 [Yeh,I-Cheng. (2008). Blood Transfusion Service Center. UCI Machine Learning Repository.](https://doi.org/10.24432/C5GS39)
+
+Note: This repository has been archived
